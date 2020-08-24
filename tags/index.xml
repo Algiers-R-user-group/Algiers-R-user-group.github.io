@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Algiers R User Group</title>
+    <title>Tags on Algiers R User</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Algiers R User Group</description>
+    <description>Recent content in Tags on Algiers R User</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>27th year of R</title>
       <link>/tags/27th-year-of-r/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/27th-year-of-r/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>first meetup</title>
       <link>/tags/first-meetup/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/first-meetup/</guid>
       <description></description>

@@ -1,0 +1,15 @@
+---
+title: "First meet up"
+author: "Algiers R user groupe"
+date: "21/08/2020"
+output: html_document
+---
+## Les't Talk Data Science with R
+
+  During the first meeting of the Algiers R user group, entitled; “Let's Talk Data Science With R” organised the 14th August, 2020 [Mohamed El Fodil Ihadadden](https://twitter.com/moh_fodil) introduced the Algiers R user group to the audience, then he gave a brief introduction of his package [batata](https://github.com/feddelegrand7/batata) package, as a first presentation.
+The second presentation was hosted by [Nassim Kaddour](https://twitter.com/nssmmn), he gave us an introduction to the dash package on R, an alternative to shiny.
+Then [Mohamed El Fodil Ihadadden](https://twitter.com/moh_fodil), came back to make the third and last presentation on [corazon](https://github.com/feddelegrand7/corazon) another package he developed.
+
+```{r pressure, echo=FALSE, out.width = '80%'}
+knitr::include_graphics("C:/Users/user/Documents/programme.png")
+``` 

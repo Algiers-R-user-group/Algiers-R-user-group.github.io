@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Algiers R User Group</title>
+    <title>Algiers R User</title>
     <link>/</link>
-    <description>Recent content on Algiers R User Group</description>
+    <description>Recent content on Algiers R User</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Meetup</title>
-      <link>/2020/07/25/first-meetup/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      <link>/2020/08/14/first-meetup/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/07/25/first-meetup/</guid>
-      <description></description>
+      <guid>/2020/08/14/first-meetup/</guid>
+      <description>Les’t Talk Data Science with R During the first meeting of the Algiers R user group, entitled; «Let’s Talk Data Science With R» organised 14th August, 2020 Mohamed El Fodil Ihadadden introduced the Algiers R user group to the audience, then he gave a brief introduction to his batata package, as a first presentation. Then, The second presentation was hosted by Nassim Kaddour, he gave us an introduction to the dash package on R, an alternative to shiny.</description>
     </item>
     
     <item>
